@@ -1,0 +1,66 @@
+.container {
+  width: 830px;
+  height: 450px;
+}
+.headerbox  {
+  font-weight: bold;
+}
+
+.headerbox p:first-child {
+  color: #ce773a;
+  background-color: #ffce99;
+  font-size: 20px;
+  padding: 8px;
+  margin-bottom: 4px;
+}
+.headerbox p:last-child {
+padding-left: 8px;
+margin-top: 0px;
+margin-bottom: 0px;
+}
+
+#friendCount {
+  font-weight: normal;
+  color:#fd5e5c;
+}
+
+img {
+  height: 147px;
+  width: 147px;
+  border-color: blue;
+  border-width: 1 px;
+  border-style: solid;
+}
+
+div.friendContainer {
+width: 150px;
+height: 200px;
+margin-left: 25px;
+margin-right: 25px;
+margin-bottom: 40px;
+text-align: center;
+float:left
+}
+
+
+
+
+div.friendContainer p:first-child {
+  color: blue;
+  font-weight: bold;
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+div.friendContainer p:last-child {
+  color: green;
+  font-size: 14px;
+  margin-top: 4px;
+  margin-bottom: 4px;
+
+}
+
+.allTheF {
+  text-align: right;
+  font-weight: bold;
+  color: #fc2319;
+}
